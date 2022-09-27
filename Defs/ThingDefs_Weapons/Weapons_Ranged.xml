@@ -4,7 +4,7 @@
   <!-- === Medieval === -->
 
   <!-- == Flintlock Pistol == -->
-  <ThingDef ParentName="BaseHumanMakeableGun_CEP">
+  <!-- <ThingDef ParentName="BaseHumanMakeableGun_CEP">
     <defName>CE_Gun_Flintlock</defName>
     <label>Flintlock</label>
     <description>This pistol features a smoothbore barrel and a long, wooden grip ending in a knob. As its name implies, the flintlock pistol is operated by a flintlock mechanism.</description>
@@ -89,10 +89,10 @@
         <linkedBodyPartsGroup>Muzzle</linkedBodyPartsGroup>
       </li>
     </tools>
-  </ThingDef>
+  </ThingDef> -->
 
   <!-- == Musket == -->
-  <ThingDef ParentName="BaseHumanMakeableGun_CEP">
+  <!-- <ThingDef ParentName="BaseHumanMakeableGun_CEP">
     <defName>CE_Gun_Musket</defName>
     <label>Musket</label>
     <description>An ancient pattern musket. As one of the first of its kind, it only has short range and low fire rate.</description>
@@ -187,7 +187,7 @@
         <linkedBodyPartsGroup>Muzzle</linkedBodyPartsGroup>
       </li>
     </tools>
-  </ThingDef>
+  </ThingDef> -->
 
   <!-- === Industrial === -->
 
@@ -1335,7 +1335,7 @@
   <!-- === Advanced === -->
 
   <!-- == R3 Charge Pistol == -->
-  <ThingDef ParentName="BaseHumanMakeableGun_CEP">
+  <!-- <ThingDef ParentName="BaseHumanMakeableGun_CEP">
     <defName>CE_Gun_ChargePistol</defName>
     <label>P-3 Charge Pistol</label>
     <description>A charged-shot pistol, commonly used by glitterworld police forces and mercenaries as a sidearm.</description>
@@ -1421,10 +1421,10 @@
         <linkedBodyPartsGroup>Muzzle</linkedBodyPartsGroup>
       </li>
     </tools>
-  </ThingDef>
+  </ThingDef> -->
 
   <!-- == S9 Charge Shotgun == -->
-  <ThingDef ParentName="BaseHumanMakeableGun_CEP">
+  <!-- <ThingDef ParentName="BaseHumanMakeableGun_CEP">
     <defName>CE_Gun_ChargeShotgun</defName>
     <label>S-9 Charge Shotgun</label>
     <description>A charged-shot shotgun, designed for maximum lethality in close-quarters combat.</description>
@@ -1519,7 +1519,7 @@
         <linkedBodyPartsGroup>Muzzle</linkedBodyPartsGroup>
       </li>
     </tools>
-  </ThingDef>
+  </ThingDef> -->
 
   <!-- == S15 Charge Launcher == -->
   <ThingDef ParentName="BaseHumanMakeableGun_CEP">
