@@ -1135,7 +1135,7 @@
   </ThingDef>
 
   <!-- == Bren LMG == -->
-  <ThingDef ParentName="BaseHumanMakeableGun_CEP">
+<!--  <ThingDef ParentName="BaseHumanMakeableGun_CEP">
     <defName>CE_Gun_BrenLMG</defName>
     <label>Bren Mk4</label>
     <description>Ancient pattern light machine gun. Despite it's prominent antiquity, it remains a mostly effective weapon.</description>
@@ -1231,10 +1231,10 @@
         <linkedBodyPartsGroup>Muzzle</linkedBodyPartsGroup>
       </li>
     </tools>
-  </ThingDef>
+  </ThingDef> -->
 
   <!-- == FN Minimi == -->
-  <ThingDef ParentName="BaseHumanMakeableGun_CEP">
+<!--  <ThingDef ParentName="BaseHumanMakeableGun_CEP">
     <defName>CE_Gun_FNMinimi</defName>
     <label>Minimi</label>
     <description>A belt-fed light machine gun. Lower firepower than most high caliber machineguns, it makes up for the weapon's overall lighter weight and recoil.</description>
@@ -1330,7 +1330,7 @@
         <linkedBodyPartsGroup>Muzzle</linkedBodyPartsGroup>
       </li>
     </tools>
-  </ThingDef>
+  </ThingDef> -->
 
   <!-- === Advanced === -->
 
