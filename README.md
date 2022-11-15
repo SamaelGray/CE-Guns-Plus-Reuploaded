@@ -3,16 +3,13 @@ Expands Combat Extended gun selection, works perfectly with and without [Combat 
 
 ## Guns
 ### Pistols
-- Flintlock
 - FN Five-seveN
-- R3 Charge Pistol
 
 ### SMG's
 - FN P90
 
 ### Shotguns
 - Sawed Off
-- S9 Charge Shotgun
 
 ### Assault/Battle Rifles
 - Musket
@@ -27,8 +24,6 @@ Expands Combat Extended gun selection, works perfectly with and without [Combat 
 
 ### Machine Guns
 - RPK-16
-- Bren LMG
-- FN Minimi
 
 ### Launchers
 - S15 Charge Launcher
