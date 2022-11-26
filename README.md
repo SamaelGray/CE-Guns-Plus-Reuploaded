@@ -12,7 +12,6 @@ Expands Combat Extended gun selection, works perfectly with and without [Combat 
 - Sawed Off
 
 ### Assault/Battle Rifles
-- Musket
 - AKS-74
 - Sig MCX
 - Tavor 7
