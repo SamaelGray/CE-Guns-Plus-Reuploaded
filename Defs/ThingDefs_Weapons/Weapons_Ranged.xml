@@ -192,7 +192,7 @@
   <!-- === Industrial === -->
 
   <!-- == FN FiveSeven == -->
-  <ThingDef ParentName="BaseHumanMakeableGun_CEP">
+<!--  <ThingDef ParentName="BaseHumanMakeableGun_CEP">
     <defName>CE_Gun_FNFiveSeven</defName>
     <label>Five-seveN</label>
     <description>A lightweight pistol that utilizes specialized rounds to eliminate lightly armored opponents.</description>
@@ -273,10 +273,10 @@
         <linkedBodyPartsGroup>Muzzle</linkedBodyPartsGroup>
       </li>
     </tools>
-  </ThingDef>
+  </ThingDef> -->
 
   <!-- == FN P90 == -->
-  <ThingDef ParentName="BaseHumanMakeableGun_CEP">
+<!--    <ThingDef ParentName="BaseHumanMakeableGun_CEP">
     <defName>CE_Gun_PNinety</defName>
     <label>P90</label>
     <description>A personal defense weapon which uses a specialized round to penetrate lightly armored opponents.</description>
@@ -372,10 +372,10 @@
         <linkedBodyPartsGroup>Muzzle</linkedBodyPartsGroup>
       </li>
     </tools>
-  </ThingDef>
+  </ThingDef> -->
 
   <!-- == Sawed Off == -->
-  <ThingDef ParentName="BaseHumanMakeableGun_CEP">
+<!--   <ThingDef ParentName="BaseHumanMakeableGun_CEP">
     <defName>CE_Gun_SawedOff</defName>
     <label>Sawed Off</label>
     <description>A double-barrel shotgun with a cut-off barrel for easier concealment and indoor deployment in urban areas.</description>
@@ -457,10 +457,10 @@
         <linkedBodyPartsGroup>Muzzle</linkedBodyPartsGroup>
       </li>
     </tools>
-  </ThingDef>
+  </ThingDef> -->
 
   <!-- == Sig MCX === -->
-  <ThingDef ParentName="BaseHumanMakeableGun_CEP">
+<!--   <ThingDef ParentName="BaseHumanMakeableGun_CEP">
     <defName>CE_Gun_SigMCX</defName>
     <label>MCX</label>
     <description>An outdated carbine design, featuring a short-stroke gas piston system to improve reliability and reduce recoil.</description>
@@ -555,7 +555,7 @@
         <linkedBodyPartsGroup>Muzzle</linkedBodyPartsGroup>
       </li>
     </tools>
-  </ThingDef>
+  </ThingDef> -->
 
   <!-- == AKS-74 == -->
   <ThingDef ParentName="BaseHumanMakeableGun_CEP">
@@ -754,7 +754,7 @@
   </ThingDef>
 
   <!-- == RPK 16 == -->
-  <ThingDef ParentName="BaseHumanMakeableGun_CEP">
+<!--   <ThingDef ParentName="BaseHumanMakeableGun_CEP">
     <defName>CE_Gun_RPKSixteen</defName>
     <label>RPK-16</label>
     <description>A light support weapon, equipped with a drum magazine to ensure sustained automatic firepower.</description>
@@ -850,10 +850,10 @@
         <linkedBodyPartsGroup>Muzzle</linkedBodyPartsGroup>
       </li>
     </tools>
-  </ThingDef>
+  </ThingDef> -->
 
   <!-- == Mini 14 == -->
-  <ThingDef ParentName="BaseHumanMakeableGun_CEP">
+<!--   <ThingDef ParentName="BaseHumanMakeableGun_CEP">
     <defName>CE_Gun_MiniFourteen</defName>
     <label>Mini-14</label>
     <description>An ancient lightweight semi-automatic rifle design, widely popular in rimworlds due to it's venerable simplicity and accuracy.</description>
@@ -944,10 +944,10 @@
         <linkedBodyPartsGroup>Muzzle</linkedBodyPartsGroup>
       </li>
     </tools>
-  </ThingDef>
+  </ThingDef> -->
 
   <!-- == Henry Big Boy == -->
-  <ThingDef ParentName="BaseHumanMakeableGun_CEP">
+<!--   <ThingDef ParentName="BaseHumanMakeableGun_CEP">
     <defName>CE_Gun_BigBoy</defName>
     <label>Big Boy</label>
     <description>An archaic design, this lever-action repeating rifle is quite popular among rimworld herders.</description>
@@ -976,12 +976,6 @@
     <weaponTags>
       <li>SniperRifle</li>
     </weaponTags>
-    <modExtensions>
-      <li Class="CombatExtended.GunDrawExtension">
-        <DrawSize>1.15,1.28</DrawSize>
-        <DrawOffset>0.05,-0.05</DrawOffset>
-      </li>
-    </modExtensions>
     <verbs>
       <li Class="CombatExtended.VerbPropertiesCE">
         <verbClass>CombatExtended.Verb_ShootCE</verbClass>
@@ -1038,7 +1032,13 @@
         <linkedBodyPartsGroup>Muzzle</linkedBodyPartsGroup>
       </li>
     </tools>
-  </ThingDef>
+    <modExtensions>
+      <li Class="CombatExtended.GunDrawExtension">
+        <DrawSize>1.15,1.28</DrawSize>
+        <DrawOffset>0.05,-0.05</DrawOffset>
+      </li>
+    </modExtensions>
+  </ThingDef> -->
 
   <!-- == M39 == -->
   <ThingDef ParentName="BaseHumanMakeableGun_CEP">
